@@ -1,0 +1,6 @@
+[submodule "CH32V307-makefile-example"]
+	path = CH32V307-makefile-example
+	url = https://github.com/ddrown/CH32V307-makefile-example.git
+[submodule "lwip"]
+	path = lwip
+	url = https://github.com/ddrown/ch32v307-lwip.git
