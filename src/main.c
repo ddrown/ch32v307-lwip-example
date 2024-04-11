@@ -11,6 +11,7 @@
 #include "tcpecho.h"
 #include "lwip/apps/lwiperf.h"
 #include "lwipsetup.h"
+#include "tiny-os-task.h"
 
 /*********************************************************************
  * @fn      main
